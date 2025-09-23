@@ -1,4 +1,20 @@
-# AutoTile for Linux Mint 22 (Cinnamon)
+<p align="center">
+  <img src="assets/autotile-logo.png" width="180" alt="AutoTile for Mint Logo" />
+</p>
+
+<h1 align="center">AutoTile for Linux Mint 22 (Cinnamon)</h1>
+<p align="center"><em>Snap your windows. Boost your flow.</em></p>
+
+<p align="center">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/gusinfosec/autotile-mint">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
+  <img alt="Status" src="https://img.shields.io/badge/status-active-success">
+  <img alt="Stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social">
+  <a href="https://ko-fi.com/gusinfosec">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ko--fi-FF5E5B?logo=kofi&style=flat" />
+  </a>
+</p>
+
 
 **AutoTile** is a lightweight Python script that adds simple tiling window management to Linux Mint 22 (Cinnamon/X11).  
 It arranges **visible, normal** windows into a neat grid using `wmctrl` + `xprop`. Zero learning curve, no switch to i3/bspwm.
