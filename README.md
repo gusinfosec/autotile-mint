@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="assets/autotile-logo.png" width="180" alt="AutoTile for Mint Logo" />
+  <img src="assets/autotile-logo.png" alt="AutoTile for Linux Mint Logo" width="220"/>
 </p>
 
 <h1 align="center">AutoTile for Linux Mint 22 (Cinnamon)</h1>
 <p align="center"><em>Snap your windows. Boost your flow.</em></p>
 
 <p align="center">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/gusinfosec/autotile-mint">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  <img alt="Status" src="https://img.shields.io/badge/status-active-success">
-  <img alt="Stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social">
-  <a href="https://ko-fi.com/gusinfosec">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ko--fi-FF5E5B?logo=kofi&style=flat" />
+  <a href="https://ko-fi.com/s/0ce6761cbf" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20on‑Ko‑fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Ko‑fi Link"/>
   </a>
 </p>
+
+<p align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/gusinfosec/autotile-mint"/>
+  <img alt="Status Stable" src="https://img.shields.io/badge/status-stable-brightgreen"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social"/>
+</p>
+
 
 
 **AutoTile** is a lightweight Python script that adds simple tiling window management to Linux Mint 22 (Cinnamon/X11).  
