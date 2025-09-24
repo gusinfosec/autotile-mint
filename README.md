@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/assets/autotile-logo.png" width="180" alt="AutoTile Logo" />
+<img src="assets/autotile-logo.png" width="180" alt="AutoTile Logo" />
 </p>
 
 
