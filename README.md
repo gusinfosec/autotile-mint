@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="docs/assets/autotile-logo.png" width="240" alt="AutoTile Logo">
+  <img src="assets/autotile-logo.png" width="300" alt="AutoTile Logo">
 </p>
 
 <h1 align="center">AutoTile for Linux Mint 22 (Cinnamon)</h1>
