@@ -1,17 +1,28 @@
 <p align="center">
-  <img src="assets/autotile-logo.png" width="300px" alt="AutoTile Logo" />
+<img src="docs/assets/autotile-logo.png" width="180" alt="AutoTile Logo" />
 </p>
+
 
 <h1 align="center">AutoTile for Linux Mint 22 (Cinnamon)</h1>
-<p align="center"><i>Snap your windows. Boost your flow.</i></p>
+
 
 <p align="center">
-  <a href="https://ko-fi.com/gusinfosec"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" /></a><br/>
-  <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
-  <img src="https://img.shields.io/badge/status-stable-brightgreen"/>
-  <img src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social"/>
+<i>Snap your windows. Boost your flow.</i>
 </p>
 
+
+<p align="center">
+<a href="https://ko-fi.com/gusinfosec">
+<img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
+</a>
+</p>
+
+
+<p align="center">
+<img alt="license" src="https://img.shields.io/badge/license-MIT-green">
+<img alt="status" src="https://img.shields.io/badge/status-active-brightgreen">
+<img alt="stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social">
+</p>
 
 ---
 
