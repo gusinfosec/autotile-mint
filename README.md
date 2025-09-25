@@ -1,28 +1,24 @@
 <p align="center">
-  <img src="assets/autotile-logo.png" width="280" alt="AutoTile Logo" />
+  <img src="assets/autotile-logo.png" width="300" alt="AutoTile Logo">
 </p>
 
 <h1 align="center">AutoTile for Linux Mint (Cinnamon)</h1>
 
-<p align="center"><i>
-Smart window auto-tiling for a faster, more efficient Linux Mint experience
-</i></p>
+<p align="center">
+  Smart window auto-tiling for a faster, more efficient Linux Mint experience.
+</p>
 
 <p align="center">
-  <a href="https://ko-fi.com/s/0ce6761cbf" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/s/0ce6761cbf" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=ko-fi&logoColor=white" alt="Buy Me a Coffee" />
+  <a href="https://ko-fi.com/gusinfosec">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT" />
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status Active" />
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social" />
-  <img alt="Built for Linux Mint" src="https://img.shields.io/badge/Built%20for-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/Built%20for-Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint" alt="Built for Linux Mint">
 </p>
 
 ---
