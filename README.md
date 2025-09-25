@@ -1,28 +1,30 @@
 <p align="center">
-<img src="assets/autotile-logo.png" width="180" alt="AutoTile Logo" />
+  <img src="assets/n8n-disk-sentinel-logo.png" width="300" alt="Disk Sentinel Logo" />
 </p>
 
+<h1 align="center">n8n‑Disk Sentinel</h1>
 
-<h1 align="center">AutoTile for Linux Mint 22 (Cinnamon)</h1>
-
+<p align="center"><i>
+Protect space, prevent downtime with ntfy
+</i></p>
 
 <p align="center">
-<i>Snap your windows. Boost your flow.</i>
+  <a href="https://ko-fi.com/gusinfosec" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/gusinfosec" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=ko-fi&logoColor=white" alt="Buy Me a Coffee" />
+  </a>
 </p>
-
 
 <p align="center">
-<a href="https://ko-fi.com/gusinfosec">
-<img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
-</a>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status Active" />
+  <img alt="Made with n8n" src="https://img.shields.io/badge/Made%20with-n8n-5e9cff?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gusinfosec/n8n-disk-sentinel?style=social" />
 </p>
 
-
-<p align="center">
-<img alt="license" src="https://img.shields.io/badge/license-MIT-green">
-<img alt="status" src="https://img.shields.io/badge/status-active-brightgreen">
-<img alt="stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social">
-</p>
 
 ---
 
