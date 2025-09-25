@@ -9,11 +9,11 @@ Smart window auto-tiling for a faster, more efficient Linux Mint experience
 </i></p>
 
 <p align="center">
-  <a href="https://ko-fi.com/gusinfosec" target="_blank">
+  <a href="https://ko-fi.com/s/0ce6761cbf" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://ko-fi.com/gusinfosec" target="_blank">
+  <a href="https://ko-fi.com/s/0ce6761cbf" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=ko-fi&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p>
