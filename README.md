@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/n8n-disk-sentinel-logo.png" width="300" alt="Disk Sentinel Logo" />
+  <img src="assets/n8n-disk-logo.png" width="300" alt="Disk Sentinel Logo" />
 </p>
 
 <h1 align="center">n8n‑Disk Sentinel</h1>
