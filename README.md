@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/n8n-disk-logo.png" width="300" alt="Disk Sentinel Logo" />
+  <img src="docs/assets/autotile-logo.png" width="280" alt="AutoTile Logo" />
 </p>
 
-<h1 align="center">n8n‑Disk Sentinel</h1>
+<h1 align="center">AutoTile for Linux Mint (Cinnamon)</h1>
 
 <p align="center"><i>
-Protect space, prevent downtime with ntfy
+Smart window auto-tiling for a faster, more efficient Linux Mint experience
 </i></p>
 
 <p align="center">
@@ -21,10 +21,9 @@ Protect space, prevent downtime with ntfy
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT" />
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status Active" />
-  <img alt="Made with n8n" src="https://img.shields.io/badge/Made%20with-n8n-5e9cff?style=flat-square&logo=n8n&logoColor=white" />
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gusinfosec/n8n-disk-sentinel?style=social" />
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gusinfosec/autotile-mint?style=social" />
+  <img alt="Built for Linux Mint" src="https://img.shields.io/badge/Built%20for-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white" />
 </p>
-
 
 ---
 
