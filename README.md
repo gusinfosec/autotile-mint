@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/gusinfosec">
+  <a href="https://ko-fi.com/s/0ce6761cbf">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
 </p>
