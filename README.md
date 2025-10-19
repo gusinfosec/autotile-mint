@@ -35,7 +35,7 @@ It arranges **visible, normal** windows into a neat grid using `wmctrl` + `xprop
 - Respects Cinnamon panels (tiles within the work area).
 - Adjustable gap between windows.
 - Optional fixed number of columns (e.g., always 2).
-- Ignore specific apps by class/title.
+- Ignore specific apps by class/title:
 - Bind to a hotkey for instant tiling.
 
 ---
@@ -43,6 +43,7 @@ It arranges **visible, normal** windows into a neat grid using `wmctrl` + `xprop
 ## 📦 Requirements
 
 - Linux Mint 22 (Cinnamon) on **X11**
+- Python 3.6+ (preinstalled on Mint)
 - `wmctrl`, `xprop` (`x11-utils`), `x11-xserver-utils`
 
 Install on Mint:
@@ -58,7 +59,7 @@ sudo apt install -y wmctrl x11-utils x11-xserver-utils
 Clone and run the installer:
 
 ```bash
-git clone https://github.com/YOURNAME/autotile-mint.git
+git clone https://github.com/gusinfosec/autotile-mint.git
 cd autotile-mint
 chmod +x setup.sh
 ./setup.sh
@@ -83,7 +84,8 @@ Bind to a hotkey:
 
 ## 🧠 How It Works
 
-AutoTile enumerates windows with `wmctrl -l`, filters only **normal**, **visible**, **current-workspace** windows using `xprop`, computes a grid (√n by default), and moves/resizes with `wmctrl -e`. It uses the **work area** from `wmctrl -d` so panels aren’t covered.
+AutoTile enumerates windows with `wmctrl -l`, filters only **normal, visible windows on the current workspace** using `xprop`, computes a grid (√n by default), and moves/resizes them with `wmctrl -e`.  
+It uses the **work area** from `wmctrl -d` so Cinnamon panels aren’t covered.
 
 ---
 
